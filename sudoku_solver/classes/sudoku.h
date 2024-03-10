@@ -1,1 +1,0 @@
-//holds a 3x3 grid of a template object, used for a block and for the whole puzzle
