@@ -1,0 +1,14 @@
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\bin\Debug\net8.0\sudoku_solver.exe
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\bin\Debug\net8.0\sudoku_solver.deps.json
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\bin\Debug\net8.0\sudoku_solver.runtimeconfig.json
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\bin\Debug\net8.0\sudoku_solver.dll
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\bin\Debug\net8.0\sudoku_solver.pdb
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.dll
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\refint\sudoku_solver.dll
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.pdb
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\sudoku_solver.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Documents\BYU Master Folder\- BYU 2024 Winter -\cse310\sudoku_solver\obj\Debug\net8.0\ref\sudoku_solver.dll
